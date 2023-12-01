@@ -1,0 +1,32 @@
+2023-09-05 12:29:01:058 [Appium] Welcome to Appium v2.1.2
+2023-09-05 12:29:01:061 [Appium] Non-default server args:
+2023-09-05 12:29:01:063 [Appium] { allowCors: true,
+2023-09-05 12:29:01:064 [Appium]   localTimezone: true,
+2023-09-05 12:29:01:064 [Appium]   loglevel: 'info',
+2023-09-05 12:29:01:064 [Appium]   logTimestamp: true,
+2023-09-05 12:29:01:064 [Appium]   longStacktrace: true,
+2023-09-05 12:29:01:065 [Appium]   port: 4724,
+2023-09-05 12:29:01:065 [Appium]   relaxedSecurityEnabled: true,
+2023-09-05 12:29:01:065 [Appium]   useDrivers: [ 'uiautomator2' ] }
+2023-09-05 12:29:01:066 [Appium] Attempting to load driver uiautomator2...
+2023-09-05 12:29:02:262 [Appium] You have enabled CORS requests from any host. Be careful not to visit sites which could maliciously try to start Appium sessions on your machine
+2023-09-05 12:29:02:264 [Appium] Appium REST http interface listener started on http://0.0.0.0:4724
+2023-09-05 12:29:02:271 [Appium] You can provide the following URLs in your client code to connect to this server:
+2023-09-05 12:29:02:271 [Appium] 	http://<<<>>>>>>:4724/
+2023-09-05 12:29:02:271 [Appium] 	http://<<<>>>>>>:4724/
+2023-09-05 12:29:02:271 [Appium] 	http://<<<<>>>>>:4724/
+2023-09-05 12:29:02:271 [Appium] 	http://127.0.0.1:4724/ (only accessible from the same host)
+2023-09-05 12:29:02:272 [Appium] Available drivers:
+2023-09-05 12:29:02:272 [Appium]   - mac2@1.7.4 (automationName 'Mac2')
+2023-09-05 12:29:02:272 [Appium]   - gecko@1.2.2 (automationName 'Gecko')
+2023-09-05 12:29:02:272 [Appium]   - safari@3.5.2 (automationName 'Safari')
+2023-09-05 12:29:02:273 [Appium]   - xcuitest@4.35.0 (automationName 'XCUITest')
+2023-09-05 12:29:02:273 [Appium]   - uiautomator2@2.29.5 (automationName 'UiAutomator2')
+2023-09-05 12:29:02:273 [Appium]   - espresso@2.25.5 (automationName 'Espresso')
+2023-09-05 12:29:02:273 [Appium]   - chromium@1.1.52 (automationName 'Chromium')
+2023-09-05 12:29:02:273 [Appium] Available plugins:
+2023-09-05 12:29:02:274 [Appium]   - images@2.1.4
+2023-09-05 12:29:02:274 [Appium]   - relaxed-caps@1.0.5
+2023-09-05 12:29:02:274 [Appium]   - universal-xml@1.0.12
+2023-09-05 12:29:02:274 [Appium]   - execute-driver@3.0.17
+2023-09-05 12:29:02:274 [Appium] No plugins activated. Use the --use-plugins flag with names of plugins to activate

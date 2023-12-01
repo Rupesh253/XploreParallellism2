@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "platformVersion": "8.1",
+  "deviceName": "Emulator-5556",
+  "emulatorName": "Lyra",
+  "appiumPort": "4724",
+  "emulatorCMD": "emulator -avd {0} -no-snapshot -wipe-data",
+  "appiumCMD": "appium -p {1} --use-drivers=uiautomator2 --allow-cors --relaxed-security --local-timezone --log-timestamp --log {0} --log-level=info --long-stacktrace"
+}

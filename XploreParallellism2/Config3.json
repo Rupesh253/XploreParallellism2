@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "platformVersion": "9.0",
+  "deviceName": "Emulator-5558",
+  "emulatorName": "Capella",
+  "appiumPort": "4725",
+  "emulatorCMD": "emulator -avd {0} -no-snapshot",
+  "appiumCMD": "appium -p {1} --use-drivers=uiautomator2 --allow-cors --relaxed-security --local-timezone --log-timestamp --log {0} --log-level=info --long-stacktrace"
+}
